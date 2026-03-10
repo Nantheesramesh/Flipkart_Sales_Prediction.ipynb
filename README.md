@@ -1,4 +1,4 @@
-lipkart Sales Prediction
+flipkart Sales Prediction
 
 Machine Learning project that predicts product sales based on advertising budget.
 
